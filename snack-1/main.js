@@ -13,3 +13,9 @@ const somma2 = function (a, b) {
 }
 // invocazione
 console.log(somma2(4, 3));
+
+//3 Quindi, riscrivi la funzione somma con la sintassi delle arrow functions.
+// dichiarazione funzione arrow
+const somma3 = (a, b) => a + b
+// invocazione
+console.log(somma3(1, 8));
